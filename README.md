@@ -6,9 +6,9 @@
 
 <p align="center">Show some ❤️ and <a href="https://github.com/abdalla3yash/splacher">star the repo</a> to support the project!</p>
 
+<img src="https://github.com/abdalla3yash/splacher/blob/main/data/demo.gif?raw=true" width=250>
 
-
-![Image](https://github.com/abdalla3yash/splacher/blob/main/data/demo.gif?raw=true)
+<!-- ![Image](https://github.com/abdalla3yash/splacher/blob/main/data/demo.gif?raw=true) -->
 
 <p align="center">
   <a href="https://pub.dev/packages/splacher"><img src="https://img.shields.io/pub/v/splacher.svg" alt="Pub"></a>

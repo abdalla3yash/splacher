@@ -1,7 +1,9 @@
 name: splacher
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/abdalla3yash/splacher
+maintainer: Abdalla Ayash (@abdalla3yash)
+
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
