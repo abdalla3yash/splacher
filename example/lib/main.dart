@@ -52,6 +52,7 @@ class SplacherWidget extends StatelessWidget {
       ],
       activeColor: Colors.white,
       inActiveColor: Colors.white70,
+      
       onIntroCompleted: () {
         Navigator.of(context).pushReplacementNamed('/location');
       },
